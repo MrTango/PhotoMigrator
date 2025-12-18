@@ -1,6 +1,7 @@
 # .github_ignore
 .github_ignore/
 
+Config.ini
 # Pycharm Folder
 #.idea/
 
